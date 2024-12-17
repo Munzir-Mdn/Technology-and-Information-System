@@ -6,7 +6,7 @@ Technology and Information System introduces the basics of information systems a
 **Module 1** - Emerging Technology in ICT <br>
 **Module 2** - Hardware <br>
 **Module 3** - Software <br>
-**Module 4** - Information Systems & Methodology <br>
+**Module 4** - Information System and Systems Analysis and Design <br>
 **Module 5** - Databases and Data Analytics  <br>
 **Module 6** - Networks and Communications <br>
 **Module 7** - Privacy, Security, and Ethics <br>
