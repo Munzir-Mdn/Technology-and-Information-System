@@ -6,3 +6,5 @@ Design thinking is a process of critical thinking used to develop solutions to p
 * Presentation : https://www.figma.com/slides/N6CrQ7PUAE2NZ0uEG2B0to/craigslist-presentation?node-id=6-830&t=ZRoPQFPS7fgYncFx-1
 
 * Feedback Link : https://forms.gle/ngZ1Ft2YHU5QSo8n9
+
+* Link Video Design Thinkng : https://drive.google.com/file/d/18UNODQ-qitilKWV6WHvfc_THqJw_VMjL/view?usp=drivesdk
